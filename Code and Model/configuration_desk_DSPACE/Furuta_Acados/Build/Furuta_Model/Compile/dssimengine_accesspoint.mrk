@@ -1,0 +1,58 @@
+source_file:
+C:\Users\Administrator\Furuta\Furuta\Furuta_Acados\Build\Furuta_Model\SysIntCode\dssimengine_accesspoint.cpp
+command_line:
+"C:\Program Files\dSPACE RCPHIL 2021-A\Compiler\Linux440_550\target\arm-linux-gnueabihf\bin\arm-linux-gnueabihf-g++.exe"
+-c
+-fno-common
+-nostdinc
+-fno-strict-aliasing
+-pipe
+-ffast-math
+-fomit-frame-pointer
+-funwind-tables
+-mcpu=cortex-a15
+-mfpu=neon-vfpv4
+-mfloat-abi=hard
+"-isystemC:\Program Files\dSPACE RCPHIL 2021-A\Compiler\Linux440_550\target\arm-linux-gnueabihf\arm-linux-gnueabihf\include\c++\5.5.0"
+"-isystemC:\Program Files\dSPACE RCPHIL 2021-A\Compiler\Linux440_550\target\arm-linux-gnueabihf\arm-linux-gnueabihf\include\c++\5.5.0\arm-linux-gnueabihf"
+"-isystemC:\Program Files\dSPACE RCPHIL 2021-A\Compiler\Linux440_550\target\arm-linux-gnueabihf\include"
+"-isystemC:\Program Files\dSPACE RCPHIL 2021-A\Compiler\Linux440_550\target\arm-linux-gnueabihf\lib\gcc\arm-linux-gnueabihf\5.5.0\include"
+"-isystemC:\Program Files\dSPACE RCPHIL 2021-A\Compiler\Linux440_550\target\arm-linux-gnueabihf\lib\gcc\arm-linux-gnueabihf\5.5.0\include-fixed"
+-fno-operator-names
+-Wall
+-D_DS1403
+-D_DS1403CN
+-DDS_PLATFORM_ARM
+-DDS_PLATFORM_ARMV7
+-DDS_PLATFORM_KEYSTONE
+-DDS_PLATFORM_LE
+-DDS_PLATFORM_POSIX
+-DDS_PLATFORM_LINUX
+-DDS_PLATFORM_DSRTLINUX
+-DDS_PLATFORM_CN
+-DDS_PLATFORM_SMART
+-DDS_PLATFORM_SMARTBOX
+-DDS_PLATFORM_SMP
+-D__HOSTNAME__=\EI-PC82\
+-D__INTEGRATION__=\5.1.1\
+-DDS_RTLIB_VERSION_MAR=5
+-DDS_RTLIB_VERSION_MIR=1
+-DDS_LINUX_VERSION=440
+-DLINUX_VERSION=4.4.0
+-D_FILE_OFFSET_BITS=64
+-O2
+-finline-functions
+-IC:\Users\Administrator\Furuta\Furuta\Furuta_Acados\Build\Furuta_Model\SysIntCode
+"-IC:\Program Files\dSPACE RCPHIL 2021-A\ConfigurationDesk\Implementation\EmbeddedSW\Src"
+"-IC:\Program Files\dSPACE RCPHIL 2021-A\DS1403\Include"
+-DDATA_PORT_ACCESS_POINT_API_VERSION=2
+-o
+C:\Users\Administrator\Furuta\Furuta\Furuta_Acados\Build\Furuta_Model\Compile\dssimengine_accesspoint.oarm
+dssimengine_accesspoint.cpp
+file_info:
+14.08.2024
+16:13
+28.03.2024
+11:20
+11765
+dssimengine_accesspoint.cpp 

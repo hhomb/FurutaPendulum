@@ -1,0 +1,83 @@
+source_file:
+C:\Users\Administrator\Furuta\Furuta\Furuta_Acados\Components\Furuta_Model\Furuta_Model_dsrt\rt_nonfinite.c
+command_line:
+"C:\Program Files\dSPACE RCPHIL 2021-A\Compiler\Linux440_550\target\arm-linux-gnueabihf\bin\arm-linux-gnueabihf-gcc.exe"
+-c
+-fno-common
+-nostdinc
+-fno-strict-aliasing
+-pipe
+-ffast-math
+-fomit-frame-pointer
+-funwind-tables
+-mcpu=cortex-a15
+-mfpu=neon-vfpv4
+-mfloat-abi=hard
+"-isystemC:\Program Files\dSPACE RCPHIL 2021-A\Compiler\Linux440_550\target\arm-linux-gnueabihf\arm-linux-gnueabihf\include\c++\5.5.0"
+"-isystemC:\Program Files\dSPACE RCPHIL 2021-A\Compiler\Linux440_550\target\arm-linux-gnueabihf\arm-linux-gnueabihf\include\c++\5.5.0\arm-linux-gnueabihf"
+"-isystemC:\Program Files\dSPACE RCPHIL 2021-A\Compiler\Linux440_550\target\arm-linux-gnueabihf\include"
+"-isystemC:\Program Files\dSPACE RCPHIL 2021-A\Compiler\Linux440_550\target\arm-linux-gnueabihf\lib\gcc\arm-linux-gnueabihf\5.5.0\include"
+"-isystemC:\Program Files\dSPACE RCPHIL 2021-A\Compiler\Linux440_550\target\arm-linux-gnueabihf\lib\gcc\arm-linux-gnueabihf\5.5.0\include-fixed"
+-Werror-implicit-function-declaration
+-D_DS1403
+-D_DS1403CN
+-DDS_PLATFORM_ARM
+-DDS_PLATFORM_ARMV7
+-DDS_PLATFORM_KEYSTONE
+-DDS_PLATFORM_LE
+-DDS_PLATFORM_POSIX
+-DDS_PLATFORM_LINUX
+-DDS_PLATFORM_DSRTLINUX
+-DDS_PLATFORM_CN
+-DDS_PLATFORM_SMART
+-DDS_PLATFORM_SMARTBOX
+-DDS_PLATFORM_SMP
+-D__HOSTNAME__=\EI-PC82\
+-D__INTEGRATION__=\5.1.1\
+-DDS_RTLIB_VERSION_MAR=5
+-DDS_RTLIB_VERSION_MIR=1
+-DDS_LINUX_VERSION=440
+-DLINUX_VERSION=4.4.0
+-D_FILE_OFFSET_BITS=64
+-O2
+-finline-functions
+-IC:\Users\Administrator\Furuta\Furuta\Furuta_Acados\Components\Furuta_Model
+-IC:\Users\Administrator\Furuta\Furuta\Furuta_Acados\Components\Furuta_Model\Furuta_Model_dsrt
+-IC:\Users\Administrator\acados_neu\buildDS1403\install\include
+-IC:\Users\Administrator\acados_neu\buildDS1403\install\include\blasfeo
+-IC:\Users\Administrator\acados_neu\buildDS1403\install\include\blasfeo\include
+-IC:\Users\Administrator\acados_neu\buildDS1403\install\include\acados_c
+-IC:\Users\Administrator\acados_neu\buildDS1403\install\include\hpipm
+-IC:\Users\Administrator\acados_neu\buildDS1403\install\include\hpipm\include
+-IC:\Users\Administrator\acados_neu\buildDS1403\install\include\acados
+-IC:\Users\Administrator\acados_neu\buildDS1403\install\include\acados\dense_qp
+-IC:\Users\Administrator\acados_neu\buildDS1403\install\include\acados\ocp_nlp
+-IC:\Users\Administrator\acados_neu\buildDS1403\install\include\acados\ocp_qp
+-IC:\Users\Administrator\acados_neu\buildDS1403\install\include\acados\sim
+-IC:\Users\Administrator\acados_neu\buildDS1403\install\include\acados\utils
+-IC:\Users\Administrator\Furuta\c_generated_code\furuta_model
+-IC:\Users\Administrator\Furuta\c_generated_code
+"-IC:\Program Files\MATLAB\R2023a\extern\include"
+"-IC:\Program Files\MATLAB\R2023a\simulink\include"
+"-IC:\Program Files\MATLAB\R2023a\rtw\c\src"
+"-IC:\Program Files\MATLAB\R2023a\rtw\c\src\ext_mode\common"
+"-IC:\Program Files\dSPACE RCPHIL 2021-A\DS1403\Include"
+-DDATA_PORT_ACCESS_POINT_API_VERSION=2
+-DModel=Furuta_Model
+-DMT=0
+-DNUMST=3
+-DNCSTATES=3
+-DTID01EQ=1
+-DUSE_RTMODEL
+-DRT
+-DNO_PRINTF
+-o
+C:\Users\Administrator\Furuta\Furuta\Furuta_Acados\Build\Furuta_Model\Compile\Furuta_Model\rt_nonfinite.oarm
+rt_nonfinite.c
+file_info:
+14.08.2024
+16:13
+08.04.2024
+10:30
+2564
+rt_nonfinite.c 

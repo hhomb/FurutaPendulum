@@ -1,0 +1,15 @@
+dSPACE Real-Time Target project marker file.
+
+BuildDir:           yes
+Model:              Furuta_Model
+TMF:                C:\Program Files\dSPACE RCPHIL 2021-A\MATLAB\MIPS\DSRT\dsrt_default_tmf.p
+MATLAB:             9.14.0.2239454 (R2023a) Update 1
+Simulink:           Simulink 10.7 (R2023a) 19-Nov-2022
+SimStruct:          19-Nov-2022 22:41:38
+RTW:                Simulink Coder 9.9 (R2023a) 19-Nov-2022
+DSRT:               4.5 (02-May-2021)
+DSRTSU:             4.1 (02-May-2021)
+RTICANMM:           5.6 (02-May-2021)
+RTILINMM:           3.6 (02-May-2021)
+TALIB:              n.a.
+IdCheckSum:         60-03-07-0E-1F-02-0E-0D-A1-0F-06-09-18-00-00-0D

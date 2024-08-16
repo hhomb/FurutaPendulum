@@ -1,0 +1,15 @@
+[System]
+Version=2.2
+SystemType=SingleProcessorSystem
+DAQService=DsDAQ
+DsDAQBackground=1
+Status=Start
+File=Furuta_Acados.rta
+RTP=1
+
+[1]
+ID=9963cf9b-2e1e-4803-80a8-649ca7f2137f
+Type=DS1403
+ServiceID=1
+TraceFile=Furuta_Model.trc
+

@@ -1,0 +1,38 @@
+-- ******** Tunable Parameters ************************************************
+
+group "Tunable Parameters"
+
+	p_1_Furuta_Model_real_T_0[0]
+	{
+	 type:    flt(64,IEEE)*
+	 alias:   "U_max"
+	 flags:   PARAM
+	}
+	p_1_Furuta_Model_real_T_0[1]
+	{
+	 type:    Furuta_Model_ArrayDT0_10*
+	 alias:   "u_guess"
+	 flags:   PARAM
+	}
+	p_1_Furuta_Model_real_T_0[11]
+	{
+	 type:    Furuta_Model_ArrayDT0_44*
+	 alias:   "x_guess"
+	 flags:   PARAM
+	}
+
+endgroup
+
+-- ******** State Machine Data ************************************************
+
+group "State Machine Data"
+
+
+endgroup
+
+
+-- ******** Labels ************************************************************
+
+-- Generation of labels turned off with TRCGenerateLabels option.
+
+

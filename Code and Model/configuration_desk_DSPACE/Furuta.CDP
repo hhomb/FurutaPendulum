@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root>
+	<creator type="key">ConfigurationDesk 6.7</creator>
+	<majorversion type="key">6</majorversion>
+	<minorversion type="key">7</minorversion>
+	<maintenanceversion type="key">0</maintenanceversion>
+	<specialbuildversion type="key"/>
+	<releasename type="key">2021-A</releasename>
+	<project>
+		<Creator type="key">ConfigurationDesk</Creator>
+		<MigrationHistory type="key"/>
+		<Name type="key">Furuta.CDP</Name>
+		<DisplayName type="key">Furuta</DisplayName>
+		<Flags type="key">4096</Flags>
+		<Type type="key">1</Type>
+		<UniqueID type="key">80673143</UniqueID>
+		<EntityID type="key">{787B9706-D98D-4122-8EFF-7C9BB9E915A4}</EntityID>
+		<ItemInfoDate type="key">28.03.2024 10:08:04</ItemInfoDate>
+		<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+		<ItemInfoDescr type="key"/>
+		<ItemInfoAddInfoDb type="key"/>
+		<ItemInfoAuthor type="key">Administrator</ItemInfoAuthor>
+		<item>
+			<Targets type="key">project</Targets>
+			<Name type="key">Furuta</Name>
+			<DisplayName type="key">Furuta</DisplayName>
+			<Path type="key">..</Path>
+			<Flags type="key">4100</Flags>
+			<Type type="key">3</Type>
+			<UniqueID type="key">396718365</UniqueID>
+			<EntityID type="key">{BB22CB9B-9D27-4703-BB12-BCBE85354262}</EntityID>
+			<ItemInfoDate type="key">28.03.2024 10:08:04</ItemInfoDate>
+			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAddInfoDb type="key"/>
+			<ItemInfoAuthor type="key">Administrator</ItemInfoAuthor>
+			<item>
+				<Docs type="key">.doc,.docx,.txt,.pdf,.xls,.xlsx,.csv,.rtf</Docs>
+				<Name type="key">Specifications</Name>
+				<DisplayName type="key">Specifications</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">64314425</UniqueID>
+				<EntityID type="key">{F5B51848-2BB2-4ECF-9C44-2F46DA463C1E}</EntityID>
+				<ItemInfoDate type="key">28.03.2024 10:08:04</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.doc,.docx,.txt,.pdf,.xls,.xlsx,.csv,.rtf</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">Administrator</ItemInfoAuthor>
+			</item>
+			<item>
+				<Docs type="key">.mpp,.mppx</Docs>
+				<Name type="key">Project Plans</Name>
+				<DisplayName type="key">Project Plans</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">952918232</UniqueID>
+				<EntityID type="key">{28FB7582-BB88-451F-AE26-1AC6F6D17D6C}</EntityID>
+				<ItemInfoDate type="key">28.03.2024 10:08:04</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.mpp,.mppx</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">Administrator</ItemInfoAuthor>
+			</item>
+			<item>
+				<Docs type="key">.slx,.mdl,.sic,.fmu,.ctlgz,.vecu,.bsc,.mcd,.mtfx</Docs>
+				<Name type="key">Models</Name>
+				<DisplayName type="key">Models</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">932218123</UniqueID>
+				<EntityID type="key">{D11B808E-FBE2-4E54-B46B-F230F84E17DE}</EntityID>
+				<ItemInfoDate type="key">28.03.2024 10:08:04</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.slx,.mdl,.sic,.fmu,.ctlgz,.vecu,.bsc,.mcd,.mtfx</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">Administrator</ItemInfoAuthor>
+			</item>
+			<item>
+				<Docs type="key">.arxml,.ldf,.dbc,.xml</Docs>
+				<Name type="key">Communication Matrices</Name>
+				<DisplayName type="key">Communication Matrices</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">168596128</UniqueID>
+				<EntityID type="key">{3F29D730-633D-4AAC-84D1-2838DA8EC649}</EntityID>
+				<ItemInfoDate type="key">28.03.2024 10:08:04</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.arxml,.ldf,.dbc,.xml</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">Administrator</ItemInfoAuthor>
+			</item>
+			<item>
+				<Docs type="key">.xml,.cpp,.c,.h,.o,.so,.py,.pyc</Docs>
+				<Name type="key">CustomFunctions</Name>
+				<DisplayName type="key">CustomFunctions</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">806039416</UniqueID>
+				<EntityID type="key">{84EBF017-F277-4C89-B630-31E96D4E00B5}</EntityID>
+				<ItemInfoDate type="key">28.03.2024 10:08:04</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.xml,.cpp,.c,.h,.o,.so,.py,.pyc</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">Administrator</ItemInfoAuthor>
+			</item>
+			<item>
+				<Docs type="key">.json</Docs>
+				<Name type="key">Metadata</Name>
+				<DisplayName type="key">Metadata</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">4</Flags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">697339617</UniqueID>
+				<EntityID type="key">{63A10FCC-9991-47D8-AF1F-A55005F17171}</EntityID>
+				<ItemInfoDate type="key">28.03.2024 10:08:04</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.json</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">Administrator</ItemInfoAuthor>
+			</item>
+		</item>
+		<item>
+			<Name type="key">AssociatedStorage.json</Name>
+			<DisplayName type="key">AssociatedStorage.json</DisplayName>
+			<Path type="key">.</Path>
+			<Flags type="key">260</Flags>
+			<Type type="key">4</Type>
+			<UniqueID type="key">567857265</UniqueID>
+			<EntityID type="key">{25F10CEE-F150-48E8-924F-8E956FC131AC}</EntityID>
+			<ItemInfoDate type="key">28.03.2024 10:08:04</ItemInfoDate>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAddInfoDb type="key"/>
+			<ItemInfoAuthor type="key">Administrator</ItemInfoAuthor>
+		</item>
+		<item>
+			<MigrationHistory type="key"/>
+			<Component type="key">ProjectApplication</Component>
+			<Name type="key">Furuta_Acados.CDL</Name>
+			<DisplayName type="key">Furuta_Acados</DisplayName>
+			<Path type="key">.\Furuta_Acados</Path>
+			<Flags type="key">41216</Flags>
+			<Type type="key">14</Type>
+			<UniqueID type="key">595960912</UniqueID>
+			<EntityID type="key">{38C4195B-25BC-4F9C-9BEE-C705C57F89FE}</EntityID>
+			<ItemInfoDate type="key">28.03.2024 10:08:04</ItemInfoDate>
+			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+			<ItemInfoDocs type="key"/>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoLog type="key"/>
+			<ItemInfoAddInfoDb type="key"/>
+			<ItemInfoAuthor type="key">Administrator</ItemInfoAuthor>
+		</item>
+	</project>
+	<experiments/>
+	<UserManager/>
+	<Interpreter>
+		<PythonVersion type="key">3.9</PythonVersion>
+	</Interpreter>
+	<ProjectExperiment/>
+	<ProjectApplication>
+		<applications>
+			<application>
+				<Name type="key">Furuta_Acados.CDL</Name>
+				<DisplayName type="key">Furuta_Acados</DisplayName>
+				<Path type="key">.\Furuta_Acados</Path>
+				<Component type="key">ProjectApplication</Component>
+				<Type type="key">14</Type>
+				<ApplicationType type="key">3</ApplicationType>
+				<Flags type="key">41216</Flags>
+				<ItemInfoDate type="key">28.03.2024 10:08:04</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key"/>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAuthor type="key">Administrator</ItemInfoAuthor>
+				<Log type="key"/>
+				<AddInfoDb type="key"/>
+				<DatabaseID type="key">-1</DatabaseID>
+				<EntityID type="key">{38C4195B-25BC-4F9C-9BEE-C705C57F89FE}</EntityID>
+			</application>
+		</applications>
+		<LastActiveApplication type="key">Furuta_Acados</LastActiveApplication>
+	</ProjectApplication>
+	<PlatformManagement/>
+</Root>

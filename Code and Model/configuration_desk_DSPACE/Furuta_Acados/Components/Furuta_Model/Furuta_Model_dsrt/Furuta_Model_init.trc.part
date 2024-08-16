@@ -1,0 +1,13 @@
+
+
+
+-- Type definitions for arrays
+typedef Furuta_Model_ArrayDT0_59 flt(64,IEEE)[59]
+typedef Furuta_Model_ArrayDT0_4 flt(64,IEEE)[4]
+typedef Furuta_Model_ArrayDT0_10 flt(64,IEEE)[10]
+typedef Furuta_Model_ArrayDT0_44 flt(64,IEEE)[44]
+typedef Furuta_Model_ArrayDT0_63 flt(64,IEEE)[63]
+typedef Furuta_Model_ArrayDT0_2 flt(64,IEEE)[2]
+typedef Furuta_Model_ArrayDT0_118 flt(64,IEEE)[118]
+
+
