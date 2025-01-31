@@ -18,7 +18,7 @@ acados_env_variables_windows
 
 %% Get warm start trajectory
 myJsonFile = "warm_start_setup_1b.json";% Setting 3 5ms
-N_warm = 9;
+N_warm = 10;
 text = fileread(myJsonFile);
 data = jsondecode(text);
 
